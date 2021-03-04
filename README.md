@@ -1,4 +1,4 @@
-# APS_alpha
+# Kaggle_training
 해당 프로젝트는 kaggle 데이터를 사용했습니다.
 
 https://www.kaggle.com/c/bosch-production-line-performance
